@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AxcryptoApplication {
+public class AxCryptoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AxcryptoApplication.class, args);
+		SpringApplication.run(AxCryptoApplication.class, args);
 	}
 
 }
